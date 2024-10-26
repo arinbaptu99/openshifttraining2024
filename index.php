@@ -8,7 +8,7 @@
 		$colorArray = array('blue', 'green', 'red', 'maroon', 'gray');
 		$colorIndex = $sec % 5;
 
-		print '<h1 style="color: '.$colorArray[$colorIndex].';">Hello World</h1>';
+		print '<h1 style="color: '.$colorArray[$colorIndex].';">Hello Arindam</h1>';
 	?>
 </body>
 
